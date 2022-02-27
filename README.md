@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Dialog Promp</title>
+        <title>Dialog Alert</title>
     </head>
     <body>
     <script>
-        var nama = prompt("Siapa nama kamu?", "");
-        document.write("<p>Hello "+ nama +"</p>");
+        alert("Selamat datang di tutorial Javascript");
     </script>
     </body>
 </html>
