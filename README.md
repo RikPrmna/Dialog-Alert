@@ -1,2 +1,2 @@
 
-<img align="center" fit="fill" alt="GIF" src="https://telegra.ph/file/aa99088b2694cda088088.mp4" />
+<img align="center" fit="fill" alt="GIF" src="https://github.com/Shuichi126/alert/blob/main/vid/alert1.gif" />
